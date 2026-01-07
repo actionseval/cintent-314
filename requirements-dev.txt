@@ -1,0 +1,17 @@
+# tests
+black
+jinja2
+onnxruntime-extensions
+onnxscript
+pandas
+py-cpuinfo
+pybind11
+pytest
+pytest-cov
+ruff
+wheel
+
+# docs/examples
+xgboost
+lightgbm; sys_platform != 'darwin'
+matplotlib
